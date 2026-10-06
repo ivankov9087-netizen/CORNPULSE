@@ -27,6 +27,15 @@ Keep all bundled files and folders together.
 Windows 64-bit / Keyboard & mouse / Offline
 ゲームパッドには対応していません。 / Gamepad not supported.
 
+## TIPS
+
+無料FPSですがRaw InputやFOVスライダー、キーバインドなど設定項目は充実しています。
+おすすめはポータルを**マウスホイールの↑／↓**、グラップルを**Eキー**に割り当てることです。
+ポータルの設置とグラップルの操作が、ぐっとスムーズになります。
+
+CORNPULSE is a free game with plenty of settings, including Raw Input, an FOV slider, and customizable keybindings.
+For smoother controls, try binding portals to mouse wheel up/down and the grapple to E. This makes placing portals and grappling much easier.
+
 ## 説明・利用条件・制作について / Readme & Credits
 
 - [日本語 README](README_JP.txt)
