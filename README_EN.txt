@@ -1,4 +1,4 @@
-﻿CORNPULSE v0.46.4 Windows x64 Edition
+﻿CORNPULSE v0.47 Windows x64 Edition
 Created by: Fields Food
 
 This is an offline, fan-made FPS created for viewers of my channel.
@@ -46,7 +46,7 @@ If you choose to run it, follow these steps on the warning screen:
 You do not need to disable SmartScreen or your antivirus software.
 Depending on your environment or updates, the warning may appear again.
 
-Inspection status (version checked: v0.46.4):
+Inspection status (version checked: v0.47):
 A Microsoft Defender scan on the creator's system detected no threats.
 A static review of the code and distribution files using GPT-6 Astra also found
 no malicious code within the scope examined.
