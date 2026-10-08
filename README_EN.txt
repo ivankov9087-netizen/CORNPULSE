@@ -1,4 +1,4 @@
-﻿CORNPULSE v0.47 Windows x64 Edition
+﻿CORNPULSE v0.5 Windows x64 Edition
 Created by: Fields Food
 
 This is an offline, fan-made FPS created for viewers of my channel.
@@ -46,7 +46,7 @@ If you choose to run it, follow these steps on the warning screen:
 You do not need to disable SmartScreen or your antivirus software.
 Depending on your environment or updates, the warning may appear again.
 
-Inspection status (version checked: v0.47):
+Inspection status (version checked: v0.5):
 A Microsoft Defender scan on the creator's system detected no threats.
 A static review of the code and distribution files using GPT-6 Astra also found
 no malicious code within the scope examined.
@@ -127,10 +127,12 @@ and changed the parts that did not work well together.
 Level design and balance went through the same process,
 with many rounds of prototyping, revision, and testing.
 
-The character illustrations were created for me by an illustrator.
-Some of the voice recordings were provided by someone with voice-acting experience.
+The illustration of the character Iwana-chan was commissioned from a professional illustrator.
+Some of the voice lines used in the game were provided by someone with professional voice acting experience.
 For the music, I used Suno Premier, then rebuilt and finished the tracks in Ableton Live.
-I brought these assets together while continuing to refine the game as a whole.
+The gun 3D models are from Quaternius' Ultimate Guns Pack (CC0), with the colors adjusted by me.
+The textures were generated using ChatGPT.
+I combined these materials and repeatedly playtested and adjusted the game to bring the overall experience together.
 
 What I realized through this project is that even when AI helps you make something that runs,
 it was still essential to keep asking, "What kind of gameplay am I aiming for?"
