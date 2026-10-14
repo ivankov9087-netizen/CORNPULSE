@@ -71,7 +71,7 @@ SmartScreen全体やウイルス対策ソフトを無効にする必要はあり
 クリア画面のPASSWORDではカードRankと所持COINSを次の周回へ持ち越せます。
 
 設定・中断データなどの保存先：
-%APPDATA%\CORNPULSE
+%APPDATA%\CORNPULSE-Native-DX11
 
 ゲームを削除してもこの保存フォルダーは残ります。
 保存フォルダーも削除する場合は必要なPASSWORDを先に控えてください。
